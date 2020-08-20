@@ -1,6 +1,8 @@
-# TheBornKorea
+# `TheBornKorea 브랜드별 특징 분석`
+`#clustering` `#folium`  
+
 ![](http://img.hankyung.com/photo/201812/AKR20181214109100005_01_i.jpg)  
-더본코리아 브랜드 별 특징을 분석해보자!!!
+
 
 # 프로젝트 소개
 - 2019-2학기 Ybigta Design 팀에서 했던 미니컨퍼런스 주제
